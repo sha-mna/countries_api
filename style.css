@@ -1,0 +1,29 @@
+body {
+    background-color: #a5134ad9;
+}
+
+.selectWrapper {
+    width: 70%;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    width: 15rem;
+    background-color: #f5fffac4;
+    margin-left: 30%;
+}
+
+.card-title {
+    font-size: 25px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.sub-title {
+    font-family: ui-monospace;
+    color: navy;
+    font-weight: 600;
+}
+   
